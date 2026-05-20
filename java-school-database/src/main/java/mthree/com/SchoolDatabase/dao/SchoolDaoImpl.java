@@ -30,6 +30,8 @@ public class SchoolDaoImpl implements SchoolDao {
     * Do not change any code outside of the placeholders provided.
      */
 
+    // FINAL VERSION
+
     @Override
     public List<Student> allStudents() {
         // Write a query that returns all students (first name, last name only)
